@@ -1,5 +1,7 @@
 package ENCAPSULATION;
 
+//definition = every object in this world is having a important part and to the important part we give the security so direct access is prevented and control access is given help of setter and getters. 
+
 //Achieve ENCAPSULATION using member private and set , get method use.
 
 class BankAccount2
@@ -24,7 +26,7 @@ class BankAccount2
 		atmpin=y;
 	}
 	
-	public int getBalance()  // get is a method to get the updated value with the help of zero parameter
+	public int getBalance()  // getter and setter method name is same.
 	{
 		return bal;
 	}

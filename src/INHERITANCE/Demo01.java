@@ -2,16 +2,16 @@ package INHERITANCE;
 
 
 //INHERITANCE
-//definition= inheritance is the process of acquiring the properties and behaviour of a class by another class.
+//definition= inheritance is the process of acquiring the properties and behaviour from one class to another class.
 
 class Parent
 {
-	//properties
+	//properties , and properties also known as HAS PART
 	float height=5.8f;
 	String skinColor="brown";
 	String noseStructure="normal";
 	
-	//behaviour
+	//behaviour , and behaviour also known as DOES PART
 	void readBooks()
 	{
 		System.out.println("I Love reading books");
