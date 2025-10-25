@@ -11,7 +11,7 @@ class Parent
 	String skinColor="brown";
 	String noseStructure="normal";
 	
-	//behaviour , and behaviour also known as DOES PART
+	//Behavior , and behavior also known as DOES PART
 	void readBooks()
 	{
 		System.out.println("I Love reading books");
