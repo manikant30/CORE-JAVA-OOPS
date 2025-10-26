@@ -2,7 +2,7 @@ package INHERITANCE;
 
 //FINAL
 //3.FINAL CLASS-IN CLASS NOTHING CAN CHANGE WHEN WE USE THE FINAL KEY WORD.
-//we can't inheritate the final class.
+//we can't inherited the final class.
 final class Parentt1
 {
 	int a=10;
